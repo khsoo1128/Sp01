@@ -8,7 +8,7 @@
 	</head>
 	<body>
 	    <h1>
-	        Controller with Spring5
+	        Controller with Spring5 ^^
 	    </h1>
 	    
 	    <a href="sample/">m01</a>(기본) &nbsp;&nbsp;
